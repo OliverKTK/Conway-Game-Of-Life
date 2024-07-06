@@ -11,3 +11,7 @@ The initial pattern constitutes the _seed_ of the system. The first generation i
 
 ## How its implemented (at the moment)
 The seed is hard coded and the representation of each generation occurs in the terminal.
+
+#### Future Plans
+- Make a window that shows the game
+- Make it so that you can draw in the window where you want to have a live/dead cell
